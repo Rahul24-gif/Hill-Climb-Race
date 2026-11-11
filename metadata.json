@@ -1,0 +1,6 @@
+{
+  "name": "Hill Rush: Offroad Adventure",
+  "description": "Physics-based side-scrolling offroad racing game featuring spring-damper suspension simulation, 6 custom vehicles, 6 procedural worlds, stunt bonuses, garage upgrades, and WebGL 3D / Illustrated 2D rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
